@@ -1,7 +1,7 @@
 
-import TitleCard from './Title-card.jsx'
-import Header from './Header.jsx';
-import Interlude from './Interlude.jsx';
+import TitleCard from './Components/Title-card.jsx'
+import Header from './Components/Header.jsx';
+import Interlude from './Components/Interlude.jsx';
 import {titles, content, images, interlude} from './text-contents.jsx';
 
 
